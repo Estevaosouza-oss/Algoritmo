@@ -1,0 +1,14 @@
+
+Leia Numero1
+Leia Numero2
+Leia Numero3
+
+TotalNotas = Numero1 + Numero2 + Numero3
+
+Media = TotalNotas / 3
+
+Se media >= 7
+Escreva Voce foi Aprovado
+
+Senao
+Escreva Voce Foi Reprovado
